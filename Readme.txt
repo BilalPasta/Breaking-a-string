@@ -1,5 +1,9 @@
 // BREAKING A STRING 
+//Group Members
+Ammar Naem 15B-072-BS
+Bilal Usman 15B-098-BS
 
+Ahsan Ullah khan 13b-039-bs
 
 INTRODUCTION:
 In this project we are breaking a string into two or more parts.
